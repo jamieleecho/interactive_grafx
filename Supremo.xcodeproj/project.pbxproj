@@ -1,0 +1,69 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		2886E37815BE2690003FD843 /* supremo.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; path = supremo.rb; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		2886E36F15BE2677003FD843 = {
+			isa = PBXGroup;
+			children = (
+				2886E37815BE2690003FD843 /* supremo.rb */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		2886E37115BE2677003FD843 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 2886E37415BE2677003FD843 /* Build configuration list for PBXProject "Supremo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 2886E36F15BE2677003FD843;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		2886E37615BE2677003FD843 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		2886E37715BE2677003FD843 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2886E37415BE2677003FD843 /* Build configuration list for PBXProject "Supremo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2886E37615BE2677003FD843 /* Debug */,
+				2886E37715BE2677003FD843 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2886E37115BE2677003FD843 /* Project object */;
+}
